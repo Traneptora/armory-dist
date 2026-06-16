@@ -322,6 +322,9 @@ pre > code {
 .footer-top-link {
   text-align: center;
 }
+.footer-top-link a {
+  color: #a0a0a0;
+}
 
 @media screen and (max-width: 800px) {
   .footer-col-1, .footer-col-2 {
@@ -507,6 +510,10 @@ th {
   font-weight: normal;
   color: #e0e0e0;
   background-color: #771900;
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #181823;
 }
 
 th {
