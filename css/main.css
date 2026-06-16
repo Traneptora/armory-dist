@@ -72,10 +72,6 @@ li > ol {
 
 strong, b {
   font-weight: 700;
-  color: #ffffff;
-}
-
-article p:first-of-type strong, article p:first-of-type b {
   color: #e0e0e0;
 }
 
